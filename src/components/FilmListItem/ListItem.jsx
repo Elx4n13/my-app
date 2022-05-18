@@ -11,7 +11,7 @@ const ListItem = (props) => {
       </div>
       <div className="cardInfo">
         <div className="cardTitle">
-        Harry Potter and the Deathly Hallows: Part 2
+        Harry Potter and the Deahthly Hallows: Part 2
         </div>
         <div className="cardButton">
           <button>Add favourite</button>
